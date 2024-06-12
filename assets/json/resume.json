@@ -11,7 +11,7 @@
       "city": "Oshawa",
       "countryCode": "CA",
       "region": "Ontario"
-    },
+    }
   },
   "work": [
     {
@@ -20,8 +20,8 @@
       "startDate": "2009-08-01",
       "endDate": "present",
       "summary": "Also Director of the Modelling and Computational Science program.",
-	"highlights": ["Dynamical Systems","Scientific Computing"]
-    },
+      "highlights": ["Dynamical Systems","Scientific Computing"]
+    }
   ],
   "education": [
     {
@@ -41,7 +41,7 @@
 	"studyType": "MSc",
 	"startDate": "1991",
 	"andDate": "1996",
-    },
+    }
   ],
   "certificates": [
     {
@@ -50,7 +50,7 @@
       "issuer": "The Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2)",
       "url": "http://tcps2core.ca/welcome",
       "icon": "fa-solid fa-location-dot"
-    },
+    }
   ],
   "publications": [
     {
