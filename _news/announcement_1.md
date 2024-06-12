@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+My abstract for ICTAM2024 in Daegu, Korea, was accepted.
