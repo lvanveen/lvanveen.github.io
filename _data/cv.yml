@@ -1,0 +1,28 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Lennaert van Veen
+    - name: Date of Birth
+      value: 27th March 1972
+    - name: Languages
+      value: Dutch, English, German, French, Japanese
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: Utrecht University, Netherlands
+      year: 2002
+      description:
+        - Time scale interaction in low-order climate models.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Professor of Applied Mathematics
+      institution: Onterio Tech University, Oshawa, Ontario, Canada
+      year: 2009 - present
+      description:
+        - Director of the Modelling and Computational Science graduate program
+
