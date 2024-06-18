@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My abstract for ICTAM2024 in Daegu, Korea, was accepted.
+My abstract for <a href="https://www.ictam2024.org/index.php">ICTAM2024</a> in Daegu, Korea, was accepted.

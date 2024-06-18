@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: _si tibi sidera cessant, nil faciet longi mensura incognita nervi (...)_ Juvenal, Satire IX, ca. 100 A.D.
+subtitle: <I>si tibi sidera cessant, nil faciet longi mensura incognita nervi (...)</I> Juvenal, Satire IX, ca. 100 A.D.
 
 profile:
   align: right
