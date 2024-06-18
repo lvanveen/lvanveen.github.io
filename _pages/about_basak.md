@@ -1,0 +1,1 @@
+Başak is investigating the stablity of Burgers vortex flows to finite-sized perturbations. This is a joint project with Greg Lewis (Ontario Tech) and Andrew Hazel (Manchester). Başak is currently preparing for her candidacy exam and also for her presentation at the <a href="https://caims2024.org/">CAIMS annual meeting</a>.
