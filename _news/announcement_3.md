@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will act as the Program Director of Modelling and Computational Science (<a href="https://mcsc.science.uoit.ca">MCSC</a>) for another year.
+I will act as the Program Director of Modelling and Computational Science (<a href="https://science.ontariotechu.ca/graduate/modelling-computational-science/">MCSC</a>) for another year.
