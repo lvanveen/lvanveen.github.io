@@ -25,7 +25,7 @@ profiles:
   - align: right
     image: kevin_pic.jpg
     content: about_kevin.md
-        image_circular: false # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>Kevin defended his thesis in 2015. Last known coordinates: staff scientist at
       Global Water Futures in Saskatoon.</p>
