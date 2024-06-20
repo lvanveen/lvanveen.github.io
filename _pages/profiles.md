@@ -30,5 +30,11 @@ profiles:
       <p>Kevin defended his thesis in 2015. Last known coordinates: staff scientist at
       Global Water Futures in Saskatoon.</p>
     thesis: phdthesis_Kevin.pdf
-      
+  - align: left
+    image: ivanky_pic.jpg
+    content: about_ivanky.md
+    image_circular: false
+    more_info: >
+      <p>Currently <a href="https://www.uph.edu/en/people/kie-van-ivanky-saputra">Department Chair</a> at Universitas Pelita Harapan, Jakarta, Indonesia.</p>
+    thesis: phdthesis_Ivanky.pdf
 ---
