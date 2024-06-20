@@ -1,0 +1,1 @@
+Ivanky worked with Prof. Quispel and myself at La Trobe University in Melbourne, Australia, back when I was a postdoc and lecturer there. His thesis concerns the identification of conserved quantities and foliations in predator-prey type ODE models. We also studied subtle degeneracies of bifurcations in systems with such special structure.
