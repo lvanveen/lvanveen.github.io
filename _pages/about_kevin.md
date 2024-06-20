@@ -1,1 +1,1 @@
-Kevin worked on the simulation and bifurcation analysis of mean-field EEG models. He spent a few months in France to work with <a href="https://mimesis.inria.fr/members/axel-hutt/">Axel Hutt</a>. You can find his thesis <A HREF="phdthesis_Kevin.pdf">here</a>.
+Kevin worked on the simulation and bifurcation analysis of mean-field EEG models. He spent a few months in France to work with <a href="https://mimesis.inria.fr/members/axel-hutt/">Axel Hutt</a>. You can find his thesis <A HREF="assests/pdf/phdthesis_Kevin.pdf">here</a>.
