@@ -29,5 +29,6 @@ profiles:
     more_info: >
       <p>Kevin defended his thesis in 2015. Last known coordinates: staff scientist at
       Global Water Futures in Saskatoon.</p>
+    thesis: phdthesis_Kevin.pdf
       
 ---
