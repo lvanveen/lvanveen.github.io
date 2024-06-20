@@ -21,7 +21,7 @@ layout: page
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
           {% if profile.thesis %}
-            <div class="thesis">This text should be replaced by a link.</div>
+            <div class="thesis">{% assign thesis_source_path = profiles.thesis | prepend: 'assets/pdf/' %}<a href=" {{thesis_source_path}} ">Link to the thesis.</a></div>
 	  {% endif %} 
         </div>
 
