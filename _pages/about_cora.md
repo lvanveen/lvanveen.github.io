@@ -1,0 +1,1 @@
+Cora graduated form our Applied and Industrial Math program and is now working on the energy balance of bike racing. A cool problem that I had never given a second's thought to. She is expected to finish her MSc in the summer of 2025.

@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: People
+title: people
 description: Current and former students and postdocs.
 nav: true
 nav_order: 7
@@ -37,4 +37,11 @@ profiles:
     more_info: >
       <p>Currently <a href="https://www.uph.edu/en/people/kie-van-ivanky-saputra">Department Chair</a> at Universitas Pelita Harapan, Jakarta, Indonesia.</p>
     thesis: phdthesis_Ivanky.pdf
+  - align: right
+    image: cora_pic.jpg
+    content: about_cora.md
+    image_circular: false
+    more_info: >
+      <p>MSc student in the MCSC program at Ontario Tech.</p>
+    
 ---
