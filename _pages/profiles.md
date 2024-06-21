@@ -68,6 +68,13 @@ profiles:
     content: about_wenyue.md
     image_circular: false
     more_info: >
-      <p><b>Wenyue Yang</b> joined a Chinese Aerospace Engineering company after graduating.</p>
+      <p><b>Wenyue Yang</b> joined an Aerospace Engineering company after graduating.</p>
     thesis: mscthesis_Wenyue.pdf
+  - align: left
+    image: eryn_pic.jpg
+    content: about_eryn.jpg
+    image_circular: false
+    more_info: >
+      <p><b>Eryn Frawley</b> fwrote her actuarial exams while studying at Ontario Tech and is now a consultant with Telus Health One.</p>
+    thesis: mscthesis_Eryn.pdf
 ---

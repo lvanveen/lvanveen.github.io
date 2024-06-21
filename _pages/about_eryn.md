@@ -1,0 +1,1 @@
+Eryn completed both her BSc and MSc degree in the Ontario Tech Math and MCSC groups. Her thesis is about the extension of non-local models of animal aggregation from one to two spatial dimensions.
