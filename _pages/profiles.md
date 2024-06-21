@@ -72,7 +72,7 @@ profiles:
     thesis: mscthesis_Wenyue.pdf
   - align: left
     image: eryn_pic.jpg
-    content: about_eryn.jpg
+    content: about_eryn.md
     image_circular: false
     more_info: >
       <p><b>Eryn Frawley</b> fwrote her actuarial exams while studying at Ontario Tech and is now a consultant with Telus Health One.</p>
