@@ -1,0 +1,1 @@
+Jaycee worked on the same project as Eric, the extraction on biomarkers for type-2 diabetes from CGM data. After co-authoring several patents and papers, she was offered a job by our partner, Klick Health, before she had written her thesis. We made it work, and will be on the same team again soon when we investigate data from voice recordings.
