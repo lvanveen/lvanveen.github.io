@@ -43,5 +43,10 @@ profiles:
     image_circular: false
     more_info: >
       <p>MSc student in the MCSC program at Ontario Tech.</p>
-    
+  - align: left
+    image: jaycee_pic.jpg
+    image_circular: false
+    more_info: >
+      <p>Staff scientist at <a href="https://appliedsciences.klick.com/">Klick Labs</a>.</p>
+    thesis: mscthesis_Jaycee.pdf
 ---
