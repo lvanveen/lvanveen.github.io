@@ -1,0 +1,1 @@
+Andree worked with Luciano Buono (UQ Rimouski) and myself on the modelling of collective motion in two spatial dimensions. We used non-local partial differential equations and Andree spent a lot of time and energy on writing and testing a simulation code in Python/NumPy.
