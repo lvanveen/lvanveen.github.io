@@ -20,9 +20,6 @@ layout: page
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
-          {% if profile.thesis %}
-            <div class="thesis">{% assign thesis_source_path = profiles.thesis | prepend: 'assets/pdf/' %}<a href="{{site.url}}/assets/pdf/{{profile.thesis}}">Link to the thesis.</a></div>
-	  {% endif %} 
         </div>
 
         <div class="clearfix">
@@ -32,6 +29,9 @@ layout: page
           {% else %}
             {{ content }}
           {% endif %}
+          {% if profile.thesis %}
+            <div class="thesis"><a href="{{site.url}}/assets/pdf/{{profile.thesis}}">Link to the thesis.</a></div>
+	  {% endif %} 
         </div>
       {% endfor %}
     {% endif %}

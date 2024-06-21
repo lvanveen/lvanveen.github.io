@@ -45,8 +45,17 @@ profiles:
       <p>MSc student in the MCSC program at Ontario Tech.</p>
   - align: left
     image: jaycee_pic.jpg
+    content: about_jaycee.md
     image_circular: false
     more_info: >
       <p>Staff scientist at <a href="https://appliedsciences.klick.com/">Klick Labs</a>.</p>
     thesis: mscthesis_Jaycee.pdf
+ -  align: right
+    image: andree_pic.jpg
+    content: about_andree.jpg
+    image_circular: false
+    more_info: >
+      <p>Now administrator at a private college in Toronto.</p>
+    thesis: mscthesis_Andree.pdf
+
 ---
