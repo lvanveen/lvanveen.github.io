@@ -12,20 +12,20 @@ profiles:
     content: about_basak.md
     image_circular: false
     more_info: >
-      <p>PhD student in the MCSC program at Ontario Tech.</p>
+      <p><b>Başak Çakmak</b> is a PhD student in the MCSC program at Ontario Tech.</p>
   - align: left
     image: eric_pic.jpg
     content: about_eric.md
     image_circular: false
     more_info: >
-      <p>Currenly working for RBC and</p>
+      <p><b>Eric Ng</b> is currenly working for RBC and</p>
       <p>part-time PhD student in the MCSC program at Ontario Tech.</p>
   - align: right
     image: kevin_pic.jpg
     content: about_kevin.md
     image_circular: false
     more_info: >
-      <p>Kevin defended his thesis in 2015. Last known coordinates:
+      <p><b>Kevin Green</b> defended his thesis in 2015. Last known coordinates:
       staff scientist at Global Water Futures in Saskatoon.</p>
     thesis: phdthesis_Kevin.pdf
   - align: left
@@ -33,7 +33,7 @@ profiles:
     content: about_ivanky.md
     image_circular: false
     more_info: >
-      <p>Currently <a href="https://www.uph.edu/en/people/kie-van-ivanky-saputra">
+      <p><b>Ivanky Saputra</b> is currently <a href="https://www.uph.edu/en/people/kie-van-ivanky-saputra">
       Department Chair</a> at Universitas Pelita Harapan, Jakarta, Indonesia.</p>
     thesis: phdthesis_Ivanky.pdf
   - align: right
@@ -41,26 +41,33 @@ profiles:
     content: about_cora.md
     image_circular: false
     more_info: >
-      <p>MSc student in the MCSC program at Ontario Tech.</p>
+      <p><b>Cora McFarlane</b> is an MSc student in the MCSC program at Ontario Tech.</p>
   - align: left
     image: jaycee_pic.jpg
     content: about_jaycee.md
     image_circular: false
     more_info: >
-      <p>Staff scientist at <a href="https://appliedsciences.klick.com/">Klick Labs</a>.</p>
+      <p><b>Jaycee Morgan Kaufman</b> is now staff scientist at <a href="https://appliedsciences.klick.com/">Klick Labs</a>.</p>
     thesis: mscthesis_Jaycee.pdf
   - align: right
     image: andree_pic.jpg
     content: about_andree.md
     image_circular: false
     more_info: >
-      <p>Now administrator at a private college in Toronto.</p>
+      <p><b>Andree Qi</b> is now administrator at a private college in Toronto.</p>
     thesis: mscthesis_Andree.pdf
   - align: left
     image: derick_pic.jpg
     content: about_derick.md
     image_circular: false
     more_info: >
-      <p>Now PhD student with Greg Lewis in the MCSC program.</p>
+      <p><b>Derick Smith</b> is now PhD student with Greg Lewis in the MCSC program.</p>
     thesis: mscthesis_Derick.pdf
+  - align: right
+    image: wenyue_pic.jpg
+    content: about_wenyue.md
+    image_circular: false
+    more_info: >
+      <p><b>Wenyue Yang</b> joined a Chinese Aerospace Engineering company after graduating.</p>
+    thesis: mscthesis_Wenyue.pdf
 ---
