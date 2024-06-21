@@ -1,0 +1,1 @@
+Derick looked into the constrained optimization problems that arise when upgrading the electricity network. Such problems are arising more and more as we shift to electric vehicles and demand grows, but much more at certain times and locations than at others.

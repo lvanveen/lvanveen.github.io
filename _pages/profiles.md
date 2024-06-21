@@ -51,10 +51,16 @@ profiles:
     thesis: mscthesis_Jaycee.pdf
   - align: right
     image: andree_pic.jpg
-    content: about_andree.jpg
+    content: about_andree.md
     image_circular: false
     more_info: >
       <p>Now administrator at a private college in Toronto.</p>
     thesis: mscthesis_Andree.pdf
-
+  - align: left
+    image: derick_pic.jpg
+    content: about_derick.md
+    image_circular: false
+    more_info: >
+      <p>Now PhD student with Greg Lewis in the MCSC program.</p>
+    thesis: mscthesis_Derick.pdf
 ---
