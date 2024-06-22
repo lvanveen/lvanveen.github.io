@@ -1,0 +1,1 @@
+Mitchell worked on equivariant bifurcation theory applied to models of animal aggregation in one spatial dimension. This was the first in a series of joint projects with Luciano Buono, now in Rimouski.
