@@ -37,7 +37,7 @@ profiles:
       <p><b>Ivanky Saputra</b> is currently <a href="https://www.uph.edu/en/people/kie-van-ivanky-saputra">
       Department Chair</a> at Universitas Pelita Harapan, Jakarta, Indonesia.</p>
     thesis: phdthesis_Ivanky.pdf
-    front: phdtehsisfront_Ivanky.jpg
+    front: phdthesisfront_Ivanky.jpg
   - align: right
     image: cora_pic.jpg
     content: about_cora.md
@@ -51,7 +51,7 @@ profiles:
     more_info: >
       <p><b>Jaycee Morgan Kaufman</b> is now staff scientist at <a href="https://appliedsciences.klick.com/">Klick Labs</a>.</p>
     thesis: mscthesis_Jaycee.pdf
-    front: mcscthesisfront_Jaycee.jpg
+    front: mscthesisfront_Jaycee.jpg
   - align: right
     image: andree_pic.jpg
     content: about_andree.md
@@ -87,9 +87,17 @@ profiles:
   - align: right
     image: behzad_pic.jpg
     content: about_behzad.md
-    image: behzad_pic.jpg
+    image_circular: false
     more_info: >
       <p><b>Behzad Nikzad</b> worked at a series of data science and AI-related startups and is now with Tempered AI.</p>
     thesis: mscthesis_Behzad.pdf
-    front: mcsthesisfront_Behzad.jpg
+    front: mscthesisfront_Behzad.jpg
+  - align: left
+    image: mitchell_pic.jpg
+    content: about_mitchell.md
+    image_circular: false
+    more_info: >
+      <p><b>Mitchell Kovacic</b> moved to SFU for his PhD with Razvan Fetecau and JF Williams which he finished in 2018.</p>
+    thesis: mscthesis_Mitchell.pdf
+    front: mscthesisfront_Mitchell.jpg
 ---
