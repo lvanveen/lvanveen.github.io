@@ -1,0 +1,1 @@
+Alex worked with Dhavide Aruliah, now at Quansight, and myself on the parallel optimization of arclength continuation. The resulting algorithm, PAMPAC, is <a href="https://dl.acm.org/doi/abs/10.1145/2714570">available throught the ACM library</a>. 
