@@ -75,6 +75,13 @@ profiles:
     content: about_eryn.md
     image_circular: false
     more_info: >
-      <p><b>Eryn Frawley</b> fwrote her actuarial exams while studying at Ontario Tech and is now a consultant with Telus Health One.</p>
+      <p><b>Eryn Frawley</b> wrote her actuarial exams while studying at Ontario Tech and is now a consultant with Telus Health One.</p>
     thesis: mscthesis_Eryn.pdf
+  - align: right
+    image: behzad_pic.jpg
+    content: about_behzad.md
+    image: behzad_pic.jpg
+    more_info: >
+      <p><b>Behzad Nikzad</b> worked at a series of data science and AI-related startups and is now with Tempered AI.</p>
+    thesis: mscthesis_Behzad.pdf
 ---
