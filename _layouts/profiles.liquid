@@ -30,7 +30,7 @@ layout: page
             {{ content }}
           {% endif %}
           {% if profile.thesis %}
-            <div class="thesis"><a href="{{site.url}}/assets/pdf/{{profile.thesis}}">Link to the thesis.</a></div>
+            <div class="thesis"><a href="{{site.url}}/assets/pdf/{{profile.thesis}}"><img height=160 border=0 src="{{site.url}}/assets/img/{{profile.front}}"></a></div>
 	  {% endif %} 
         </div>
       {% endfor %}

@@ -28,6 +28,7 @@ profiles:
       <p><b>Kevin Green</b> defended his thesis in 2015. Last known coordinates:
       staff scientist at Global Water Futures in Saskatoon.</p>
     thesis: phdthesis_Kevin.pdf
+    front: phdthesisfront_Kevin.jpg
   - align: left
     image: ivanky_pic.jpg
     content: about_ivanky.md
@@ -36,6 +37,7 @@ profiles:
       <p><b>Ivanky Saputra</b> is currently <a href="https://www.uph.edu/en/people/kie-van-ivanky-saputra">
       Department Chair</a> at Universitas Pelita Harapan, Jakarta, Indonesia.</p>
     thesis: phdthesis_Ivanky.pdf
+    front: phdtehsisfront_Ivanky.jpg
   - align: right
     image: cora_pic.jpg
     content: about_cora.md
@@ -49,6 +51,7 @@ profiles:
     more_info: >
       <p><b>Jaycee Morgan Kaufman</b> is now staff scientist at <a href="https://appliedsciences.klick.com/">Klick Labs</a>.</p>
     thesis: mscthesis_Jaycee.pdf
+    front: mcscthesisfront_Jaycee.jpg
   - align: right
     image: andree_pic.jpg
     content: about_andree.md
@@ -56,6 +59,7 @@ profiles:
     more_info: >
       <p><b>Andree Qi</b> is now administrator at a private college in Toronto.</p>
     thesis: mscthesis_Andree.pdf
+    front: mscthesisfront_Andree.jpg
   - align: left
     image: derick_pic.jpg
     content: about_derick.md
@@ -63,6 +67,7 @@ profiles:
     more_info: >
       <p><b>Derick Smith</b> is now PhD student with Greg Lewis in the MCSC program.</p>
     thesis: mscthesis_Derick.pdf
+    front: mscthesisfront_Derick.jpg
   - align: right
     image: wenyue_pic.jpg
     content: about_wenyue.md
@@ -70,6 +75,7 @@ profiles:
     more_info: >
       <p><b>Wenyue Yang</b> joined an Aerospace Engineering company after graduating.</p>
     thesis: mscthesis_Wenyue.pdf
+    front: mscthesisfront_Wenyue.jpg
   - align: left
     image: eryn_pic.jpg
     content: about_eryn.md
@@ -77,6 +83,7 @@ profiles:
     more_info: >
       <p><b>Eryn Frawley</b> wrote her actuarial exams while studying at Ontario Tech and is now a consultant with Telus Health One.</p>
     thesis: mscthesis_Eryn.pdf
+    front: mscthesisfront_Eryn.jpg
   - align: right
     image: behzad_pic.jpg
     content: about_behzad.md
@@ -84,4 +91,5 @@ profiles:
     more_info: >
       <p><b>Behzad Nikzad</b> worked at a series of data science and AI-related startups and is now with Tempered AI.</p>
     thesis: mscthesis_Behzad.pdf
+    front: mcsthesisfront_Behzad.jpg
 ---
