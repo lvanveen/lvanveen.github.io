@@ -100,7 +100,7 @@ profiles:
       <p><b>Mitchell Kovacic</b> moved to SFU for his PhD with Razvan Fetecau and JF Williams which he finished in 2018.</p>
     thesis: mscthesis_Mitchell.pdf
     front: mscthesisfront_Mitchell.jpg
-  - align:right
+  - align: right
     image: alex_pic.jpg
     content: about_alex.md
     image_circular: false
@@ -108,4 +108,7 @@ profiles:
       <p>Alex went into DevOps after graduating and now works for Xerox.</p>
     thesis: mscthesis_Alex.pdf
     front: mscthesisfront_Alex.jpg
+  - align: left
+    image: loukia_pic.jpg
+    content: about_loukia.md
 ---
