@@ -1,0 +1,1 @@
+Loukia graduated at Concordia University after I moved to Ontario Tech. She worked on the numerical and exact bifurcation analysis of a simple, local EEG model.
