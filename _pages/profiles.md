@@ -13,6 +13,7 @@ profiles:
     image_circular: false
     more_info: >
       <p><b>Başak Çakmak</b> is a PhD student in the MCSC program at Ontario Tech.</p>
+    marker: PhD
   - align: left
     image: eric_pic.jpg
     content: about_eric.md
@@ -44,6 +45,7 @@ profiles:
     image_circular: false
     more_info: >
       <p><b>Cora McFarlane</b> is an MSc student in the MCSC program at Ontario Tech.</p>
+    marker: MSc
   - align: left
     image: jaycee_pic.jpg
     content: about_jaycee.md
@@ -111,4 +113,10 @@ profiles:
   - align: left
     image: loukia_pic.jpg
     content: about_loukia.md
+    image_circular: false
+    more_info: >
+      <p>Loukia moved first to Barcelona, then Paris, to work for NGOs</p>
+    thesis: mscthesis_Loukia.pdf
+    front: mscthesisfront_Loukia.jpg
+    
 ---
