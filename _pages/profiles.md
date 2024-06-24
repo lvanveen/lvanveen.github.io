@@ -156,4 +156,11 @@ profiles:
     image_circular: false
     more_info: >
       <p><b>Mei-yu Chen</b> graduated with a degree in Computer Science and is now Data Engineer at Scotia Bank.</p>
+  - align: left
+    image: rohit_pic.jpg
+    content: about_Rohit.md
+    image_circular: false
+    more_info: >
+      <p><b>Rohit Singh</b> graduated from our physics program and moved to Queen's for his MSc in 2021.</p>
+      
 ---
