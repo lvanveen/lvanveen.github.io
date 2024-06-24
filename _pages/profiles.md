@@ -15,6 +15,12 @@ profiles:
       <p><b>In the spring of 2023 Azade moved to the lab of <a href="https://morgancraiglab.com/">Morgan Craig</a> at UdM.</p>
     marker: Postdoc
   - align: right
+    image: driss_pic.jpg
+    content: about_driss.md
+    image_circular: false
+    more_info >
+      <p><b>Driss Yakoubi</b> is now a professor at the Pôle Universitaire Léonard de Vinci in Paris.</p>
+  - align: left
     image: nicolas_pic.jpg
     content: about_nicolas.md
     image_circular: false

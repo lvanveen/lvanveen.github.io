@@ -1,0 +1,1 @@
+Driss worked with me through the Fields Institute in the context of a theme program on computational physics that I co-organised. At the time, he was lecturing at the university of Laval.
