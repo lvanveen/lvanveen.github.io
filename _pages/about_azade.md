@@ -1,0 +1,1 @@
+Fatemeh Beigh Mohammadi or, as she was commonly called, Azade, worked with Jane Breen and myself on the dynamics of clustered Markov chains. In the spring of 2023 she moved to the lab of [Morgan Craig](https://morgancraiglab.com/) at UdM.

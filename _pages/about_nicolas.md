@@ -1,0 +1,1 @@
+Nicolas worked with Greg Lewis and myself on invariant solutions on differentially heated, rotating flow. 
