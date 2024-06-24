@@ -2,8 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: >
-  <div>A more (or less) complete list is maintained by <a href="https://scholar.google.com/citations?user=89fHOQgAAAAJ&hl=en&oi=ao">Google Scholar</a> and (almost) all papers are available from <a href="https://arxiv.org">arXiv</a> (following the applicable policy on formatting and embargos).</div>
+description: A brief description of this page. Testing what can be included and how long the text can be before things break.
 nav: true
 nav_order: 2
 ---
