@@ -1,0 +1,1 @@
+Gabrielle and I were planning to work together in the summer of 2021 but COVID threw a spanner in the works. In the end, we ran the project online. She successfully computed several invariant solutions in 3D Kolmogorov flow.

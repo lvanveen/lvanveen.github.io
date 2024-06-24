@@ -1,0 +1,1 @@
+Jacob had already raked up three degrees (math, software engineering and education) when he joined my project with Klick Health. He wrote, tested and maintained the original code that our work, and that of Jaycee and Eric, is based on.  

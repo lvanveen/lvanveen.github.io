@@ -1,0 +1,1 @@
+Mei-yu Chen helped Yan, Eric, Jaycee and myself develop the software for the project on Continuous Glucose Monitors. As a software engineer, she organised all source code in repositories while following the rules and recommendations of the Research Ethics Board.

@@ -18,7 +18,7 @@ profiles:
     image: driss_pic.jpg
     content: about_driss.md
     image_circular: false
-    more_info >
+    more_info: >
       <p><b>Driss Yakoubi</b> is now a professor at the Pôle Universitaire Léonard de Vinci in Paris.</p>
   - align: left
     image: nicolas_pic.jpg
@@ -137,5 +137,23 @@ profiles:
       <p>Loukia moved first to Barcelona, then Paris, to work for NGOs</p>
     thesis: mscthesis_Loukia.pdf
     front: mscthesisfront_Loukia.jpg
-    
+  - align: right
+    image: gabrielle_pic.jpg
+    content: about_gabrielle.md
+    image_circular: false
+    more_info: >
+      <p><b>Gabrielle Claus</b> is now a PhD candidate in Applied Math at UNH.</p>
+    marker: Undergrad
+  - align: left
+    image: jacob_pic.jpg
+    content: about_jacob.md
+    image_circular: false
+    more_info: >
+      <p><b>Jacob Morra</b> moved to the lab of <a href="http://www.daleylab.org/lab/grav/">Mark Daley</a> where he obtained his PhD in 2023 and is now active as a postdoc.</p>
+  - align: right
+    image: mei-yu_pic.jpg
+    content: about_mei_yu.md
+    image_circular: false
+    more_info: >
+      <p><b>Mei-yu Chen</b> graduated with a degree in Computer Science and is now Data Engineer at Scotia Bank.</p>
 ---
