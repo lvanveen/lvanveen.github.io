@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: A brief description of this page. Testing what can be included and how long the text can be before things break.
+description: A brief description of this page. Testing what can be included and how <a href="http://www.google.com">long the</a> text can be before things break.
 nav: true
 nav_order: 2
 ---
