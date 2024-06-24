@@ -7,6 +7,19 @@ nav: true
 nav_order: 7
 
 profiles:
+  - align: left
+    image: azade_pic.jpg
+    content: about_azade.md
+    image_circular: false
+    more_info: >
+      <p><b>In the spring of 2023 Azade moved to the lab of <a href="https://morgancraiglab.com/">Morgan Craig</a> at UdM.</p>
+    marker: Postdoc
+  - align: right
+    image: nicolas_pic.jpg
+    content: about_nicolas.md
+    image_circular: false
+    more_info: >
+      <p><b>Nicolas Périnet</p> moved to the University of Chile in 2013 and seems to have settled there.</p>
   - align: right
     image: basak_pic.jpg
     content: about_basak.md
