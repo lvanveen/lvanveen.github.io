@@ -151,7 +151,7 @@ profiles:
     more_info: >
       <p><b>Jacob Morra</b> moved to the lab of <a href="http://www.daleylab.org/lab/grav/">Mark Daley</a> where he obtained his PhD in 2023 and is now active as a postdoc.</p>
   - align: right
-    image: mei-yu_pic.jpg
+    image: mei_yu_pic.jpg
     content: about_mei_yu.md
     image_circular: false
     more_info: >
