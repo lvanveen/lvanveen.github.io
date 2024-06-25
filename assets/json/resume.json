@@ -29,6 +29,19 @@
 	  "url": "https://www.concordia.ca/artsci/math-stats.html",
 	  "startDate": "2007-07-01",
 	  "endDate": "2009-08-01"
+      },
+      {
+	  "name": "AMS COE on Mathematics and Statistics of Complex Systems",
+	  "position": "Postdoctoral researcher and lecturer at La Trobe University",
+	  "startDate": "2005-05-01",
+	  "endDate": "2007-05-01"
+      },
+      {
+	  "name": "National Institute for Fusion Science and Kyoto University",
+	  "position": "Postdoctoral researcher",
+	  "url": "https://www.nifs.ac.jp/en/",
+	  "startDate": "2003-04-01",
+	  "endDate": "2005-04-30"
       }
   ],
   "education": [
