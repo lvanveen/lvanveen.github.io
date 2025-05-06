@@ -54,8 +54,8 @@ profiles:
     content: about_ivanky.md
     image_circular: false
     more_info: >
-      <p><b>Ivanky Saputra</b> is currently <a href="https://www.uph.edu/en/people/kie-van-ivanky-saputra">
-      Department Chair</a> at Universitas Pelita Harapan, Jakarta, Indonesia.</p>
+      <p><b>Ivanky Saputra</b> is currently Department Chair at Universitas Pelita Harapan, Jakarta, Indonesia.
+      Here is his <a href="https://scholar.google.com/citations?user=3B45E3cAAAAJ">Google Scholar profile</a>.</p>
     thesis: phdthesis_Ivanky.pdf
     front: phdthesisfront_Ivanky.jpg
   - align: right
