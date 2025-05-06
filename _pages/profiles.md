@@ -71,7 +71,6 @@ profiles:
     image_circular: false
     more_info: >
       <p><b>Cora McFarlane</b> is an MSc student in the MCSC program at Ontario Tech.</p>
-    marker: MSc
   - align: left
     image: jaycee_pic.jpg
     content: about_jaycee.md
