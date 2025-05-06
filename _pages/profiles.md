@@ -59,15 +59,21 @@ profiles:
     thesis: phdthesis_Ivanky.pdf
     front: phdthesisfront_Ivanky.jpg
   - align: right
-    image: cora_pic.jpg
-    content: about_cora.md
+    image: adam_pic.jpg
+    content: about_adam.md
     image_circular: false
     more_info: >
       <p><b>Adam Callanan</b> is an MSc student in the MCSC program at Ontario Tech.</p>
     marker: MSc
-  - align: right
-    image: adam_pic.jpg
-    content: about_adam.md
+- align: left
+    imgage: reyhaneh_pic.jpg
+    content: about_reyhaneh.md
+    image_circular: false
+    more_info: >
+      <p><b>Reyhaneh Bahranifard</b> is an MSc student in the MCSC program with one leg in Hendrick de Haan's physics lab.</p>
+- align: right
+    image: cora_pic.jpg
+    content: about_cora.md
     image_circular: false
     more_info: >
       <p><b>Cora McFarlane</b> is an MSc student in the MCSC program at Ontario Tech.</p>

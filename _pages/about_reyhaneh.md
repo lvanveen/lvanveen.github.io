@@ -1,0 +1,1 @@
+Reyhaneh is exploring both agent-based and continuous modelling of collective bacterial motion. She will present her first ideas and results at <a href="https://event.fourwaves.com/bsc2025/pages"> tenth annual meeting of the Biophysical Society of Canada</a>.
