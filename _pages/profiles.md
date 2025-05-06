@@ -63,6 +63,13 @@ profiles:
     content: about_cora.md
     image_circular: false
     more_info: >
+      <p><b>Adam Callanan</b> is an MSc student in the MCSC program at Ontario Tech.</p>
+    marker: MSc
+  - align: right
+    image: adam_pic.jpg
+    content: about_adam.md
+    image_circular: false
+    more_info: >
       <p><b>Cora McFarlane</b> is an MSc student in the MCSC program at Ontario Tech.</p>
     marker: MSc
   - align: left

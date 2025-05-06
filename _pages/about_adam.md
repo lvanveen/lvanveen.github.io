@@ -1,0 +1,1 @@
+Adam Callanan is working with Greg Lewis and Yan Fossat of Klick Health on the extraction of biomarkers for various cardio-vascular diseases from voice data.
