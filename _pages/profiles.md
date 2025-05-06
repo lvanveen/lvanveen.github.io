@@ -66,7 +66,7 @@ profiles:
       <p><b>Adam Callanan</b> is an MSc student in the MCSC program at Ontario Tech.</p>
     marker: MSc
   - align: left
-    imgage: reyhaneh_pic.jpg
+    image: reyhaneh_pic.jpg
     content: about_reyhaneh.md
     image_circular: false
     more_info: >
