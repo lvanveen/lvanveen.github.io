@@ -138,7 +138,7 @@ profiles:
     content: about_alex.md
     image_circular: false
     more_info: >
-      <p>Alex went into DevOps after graduating and now works for Xerox.</p>
+      <p><b>Alex Dubitski</b> went into DevOps after graduating and now works for Xerox.</p>
     thesis: mscthesis_Alex.pdf
     front: mscthesisfront_Alex.jpg
   - align: left
@@ -146,29 +146,35 @@ profiles:
     content: about_loukia.md
     image_circular: false
     more_info: >
-      <p>Loukia moved first to Barcelona, then Paris, to work for NGOs</p>
+      <p><b>Loukia Tsakanikas</b> moved first to Barcelona, then Paris, to work for NGOs</p>
     thesis: mscthesis_Loukia.pdf
     front: mscthesisfront_Loukia.jpg
   - align: right
+    image: anchal_pic.jpg
+    content: about_anchal.md
+    image_circular: false
+    more_info: >
+      <p><b>Anchal Sihag</b>is currently finishing her last year in our undergrad program.</p>
+    marker: Undergrads of the past few years
+  - align: left
     image: gabrielle_pic.jpg
     content: about_gabrielle.md
     image_circular: false
     more_info: >
       <p><b>Gabrielle Claus</b> is now a PhD candidate in Applied Math at UNH.</p>
-    marker: Undergrads of the past few years
-  - align: left
+  - align: right
     image: jacob_pic.jpg
     content: about_jacob.md
     image_circular: false
     more_info: >
       <p><b>Jacob Morra</b> moved to the lab of <a href="http://www.daleylab.org/lab/grav/">Mark Daley</a> where he obtained his PhD in 2023 and is now active as a postdoc.</p>
-  - align: right
+  - align: left
     image: mei_yu_pic.jpg
     content: about_mei_yu.md
     image_circular: false
     more_info: >
       <p><b>Mei-yu Chen</b> graduated with a degree in Computer Science and is now Data Engineer at Scotia Bank.</p>
-  - align: left
+  - align: right
     image: rohit_pic.jpg
     content: about_rohit.md
     image_circular: false
