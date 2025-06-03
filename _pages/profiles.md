@@ -154,7 +154,7 @@ profiles:
     content: about_anchal.md
     image_circular: false
     more_info: >
-      <p><b>Anchal Sihag</b>is currently finishing her last year in our undergrad program.</p>
+      <p><b>Anchal Sihag</b> is currently finishing her last year in our undergrad program.</p>
     marker: Undergrads of the past few years
   - align: left
     image: gabrielle_pic.jpg
